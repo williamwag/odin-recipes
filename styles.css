@@ -2,7 +2,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*index*/
+/*Index*/
 
 .container {
     width: 400px;
@@ -13,4 +13,27 @@
 .chef-logo {
     width: 250px;
     height: auto;
+}
+
+/*Recipe links*/
+
+.container-link {
+    padding: 8px 100px;
+    color: rgb(55, 65, 81);
+    width: 700px;
+    height: auto;
+}
+
+.container-link h1, h2 {
+    color: rgb(17, 24, 39);
+}
+
+.container-link img {
+    width: 500px;
+    height: auto;
+} 
+
+.recipe-nav {
+    background-color: rgb(243, 244, 246);
+    padding: 10px;
 }
