@@ -2,6 +2,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*index*/
+
+.container {
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
 .chef-logo {
     width: 250px;
     height: auto;
